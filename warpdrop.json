@@ -6,21 +6,21 @@
             "bin": [
                 "warpdrop.exe"
             ],
-            "hash": "177d8a78429651d42c13a37276b022ddb65e820fa8e9f9a4c41a1aa7d57cb958"
+            "hash": "296706d9408f3cb55a17dfa203b4062d03b57544c452a8192467a2fe7dffa180"
         },
         "64bit": {
             "url": "https://github.com/BioHazard786/warpdrop/releases/download/v0.0.2/warpdrop_v0.0.2_Windows-64bit.zip",
             "bin": [
                 "warpdrop.exe"
             ],
-            "hash": "fc979b864b2cc2969bcb60e6f924e85cac4ccb9e5848c7532b8217a18c48ecef"
+            "hash": "b5fa59dbd6d6b580d17f2fbd1de4b9ac02e4a67a92a76390bd2ccc120067af7c"
         },
         "arm64": {
             "url": "https://github.com/BioHazard786/warpdrop/releases/download/v0.0.2/warpdrop_v0.0.2_Windows-ARM64.zip",
             "bin": [
                 "warpdrop.exe"
             ],
-            "hash": "21b8410ba4befcf87c178e29d9fa926ea8657a5288a0e58c818fb06d69ccfe81"
+            "hash": "1459fcdefe006c9d707ee79997c237ee74171a2d8870c35caff49aba4140a3fc"
         }
     },
     "homepage": "https://github.com/BioHazard786/Warpdrop",
