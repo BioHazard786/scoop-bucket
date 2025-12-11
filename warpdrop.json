@@ -1,0 +1,29 @@
+{
+    "version": "0.0.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/BioHazard786/warpdrop/releases/download/v0.0.2/warpdrop_v0.0.2_Windows-32bit.zip",
+            "bin": [
+                "warpdrop.exe"
+            ],
+            "hash": "177d8a78429651d42c13a37276b022ddb65e820fa8e9f9a4c41a1aa7d57cb958"
+        },
+        "64bit": {
+            "url": "https://github.com/BioHazard786/warpdrop/releases/download/v0.0.2/warpdrop_v0.0.2_Windows-64bit.zip",
+            "bin": [
+                "warpdrop.exe"
+            ],
+            "hash": "fc979b864b2cc2969bcb60e6f924e85cac4ccb9e5848c7532b8217a18c48ecef"
+        },
+        "arm64": {
+            "url": "https://github.com/BioHazard786/warpdrop/releases/download/v0.0.2/warpdrop_v0.0.2_Windows-ARM64.zip",
+            "bin": [
+                "warpdrop.exe"
+            ],
+            "hash": "21b8410ba4befcf87c178e29d9fa926ea8657a5288a0e58c818fb06d69ccfe81"
+        }
+    },
+    "homepage": "https://github.com/BioHazard786/Warpdrop",
+    "license": "MIT",
+    "description": "A simple, secure p2p file sharing tool using WebRTC technology."
+}
