@@ -1,26 +1,26 @@
 {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/BioHazard786/warpdrop/releases/download/v2.0.1/warpdrop_v2.0.1_Windows-32bit.zip",
+            "url": "https://github.com/BioHazard786/warpdrop/releases/download/v2.0.2/warpdrop_v2.0.2_Windows-32bit.zip",
             "bin": [
                 "warpdrop.exe"
             ],
-            "hash": "1c6e0ad5d201a94a687b31ea0c450e03ef121b45d272362619da1a4e4348fe3c"
+            "hash": "52d4ad4e213af310ded349013eeb9bc2f68640499e382c8554840b564323036d"
         },
         "64bit": {
-            "url": "https://github.com/BioHazard786/warpdrop/releases/download/v2.0.1/warpdrop_v2.0.1_Windows-64bit.zip",
+            "url": "https://github.com/BioHazard786/warpdrop/releases/download/v2.0.2/warpdrop_v2.0.2_Windows-64bit.zip",
             "bin": [
                 "warpdrop.exe"
             ],
-            "hash": "7dc6abd7f8adbcddf6df30d9ae71627f72603cd93b40495751761bd59263c4c4"
+            "hash": "66605d28c90aaf79d9f8b086c5e8128f2f31a7f229551bcbe272d6fbe226a95d"
         },
         "arm64": {
-            "url": "https://github.com/BioHazard786/warpdrop/releases/download/v2.0.1/warpdrop_v2.0.1_Windows-ARM64.zip",
+            "url": "https://github.com/BioHazard786/warpdrop/releases/download/v2.0.2/warpdrop_v2.0.2_Windows-ARM64.zip",
             "bin": [
                 "warpdrop.exe"
             ],
-            "hash": "2036844510decd344c9a55d5b4e7883b026a471fba88db65c76d074cb8149923"
+            "hash": "bf483a63f0981eb942325e005ed137347fa0d986f94bc18353ce9ffb9ebce4e5"
         }
     },
     "homepage": "https://github.com/BioHazard786/Warpdrop",
