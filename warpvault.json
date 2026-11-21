@@ -1,26 +1,26 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/BioHazard786/warpvault/releases/download/v1.0.0/warpvault_v1.0.0_Windows-32bit.zip",
+            "url": "https://github.com/BioHazard786/warpvault/releases/download/v1.0.1/warpvault_v1.0.1_Windows-32bit.zip",
             "bin": [
                 "warpvault.exe"
             ],
-            "hash": "cdc698febe4095e89ba5737c853210d76475911913cf4289d9868922a0a247db"
+            "hash": "f4dbaea61aca29a04aa5800133324d49a1be9a391503bd77cbcfa94ede154c4e"
         },
         "64bit": {
-            "url": "https://github.com/BioHazard786/warpvault/releases/download/v1.0.0/warpvault_v1.0.0_Windows-64bit.zip",
+            "url": "https://github.com/BioHazard786/warpvault/releases/download/v1.0.1/warpvault_v1.0.1_Windows-64bit.zip",
             "bin": [
                 "warpvault.exe"
             ],
-            "hash": "e994deecf17d842035ec5f89c3990f9e7bcf51fd1725ae73aa4be2e88f5abe5f"
+            "hash": "5b4e89c2d866776c3270f142b5fa735d5e3f74e7e59feb145dd88339f24d0190"
         },
         "arm64": {
-            "url": "https://github.com/BioHazard786/warpvault/releases/download/v1.0.0/warpvault_v1.0.0_Windows-ARM64.zip",
+            "url": "https://github.com/BioHazard786/warpvault/releases/download/v1.0.1/warpvault_v1.0.1_Windows-ARM64.zip",
             "bin": [
                 "warpvault.exe"
             ],
-            "hash": "9aaeacc33ae5cac92ac0e40391d9292450fcb1cadbc47c0369c810a4cc429eba"
+            "hash": "dfe517c31fe291a245a4374a4fc6038ebcdb284be2bcda65ef7ff2c017067d16"
         }
     },
     "homepage": "https://github.com/BioHazard786/warpvault",
