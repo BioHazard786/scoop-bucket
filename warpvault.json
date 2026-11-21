@@ -1,0 +1,29 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/BioHazard786/warpvault/releases/download/v1.0.0/warpvault_v1.0.0_Windows-32bit.zip",
+            "bin": [
+                "warpvault.exe"
+            ],
+            "hash": "cdc698febe4095e89ba5737c853210d76475911913cf4289d9868922a0a247db"
+        },
+        "64bit": {
+            "url": "https://github.com/BioHazard786/warpvault/releases/download/v1.0.0/warpvault_v1.0.0_Windows-64bit.zip",
+            "bin": [
+                "warpvault.exe"
+            ],
+            "hash": "e994deecf17d842035ec5f89c3990f9e7bcf51fd1725ae73aa4be2e88f5abe5f"
+        },
+        "arm64": {
+            "url": "https://github.com/BioHazard786/warpvault/releases/download/v1.0.0/warpvault_v1.0.0_Windows-ARM64.zip",
+            "bin": [
+                "warpvault.exe"
+            ],
+            "hash": "9aaeacc33ae5cac92ac0e40391d9292450fcb1cadbc47c0369c810a4cc429eba"
+        }
+    },
+    "homepage": "https://github.com/BioHazard786/warpvault",
+    "license": "MIT",
+    "description": "Zero-knowledge, client-side encrypted secret sharing from the terminal."
+}
